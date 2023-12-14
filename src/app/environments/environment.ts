@@ -1,4 +1,4 @@
 export const environment = {
 
-    apiURL: 'http://localhost:4201/api/'
+    apiURL: 'https://lionfish-app-swy7g.ondigitalocean.app/api/'
 }
